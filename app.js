@@ -1,4 +1,4 @@
 /* global $ */
 function showAlert(){
-    window.alert('You clicked the button!')
+    window.alert('Welcome to Cristo Rey!')
 }
